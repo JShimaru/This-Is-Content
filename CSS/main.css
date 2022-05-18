@@ -1,0 +1,101 @@
+<style type="text/css">
+  body{
+    background-color: silver;
+  }
+  h1{
+    font-size:60pt;
+    color: Navy;
+    text-align: center;
+  }
+  h2{
+    text-decoration: underline;
+    font-size: 55pt;
+    text-align: center;
+    color: maroon;
+    font-family: fantasy;
+  }
+  h3{
+    font-size: 45pt;
+    text-align: center;
+    color: Navy;
+  }
+  p{
+    font-size: 30pt;
+    color: Navy;
+    text-align: center;
+  }
+  #Insta{
+    font-size: small;
+    color: black;
+    text-align: center;
+  }
+  #Home{
+    color: black;
+    text-align: center;
+    font-size: 20pt;
+  }
+  a{
+    color: purple;
+  }
+  #Hlink{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  div, iframe{
+    width: 560px;
+    height: 315px;
+    margin: 0 auto;
+  }
+  iframe{
+    display: block;
+    border-style: none;
+  }
+  th{
+    font-size: 20pt;
+    line-height: large;
+  }
+  td{
+    text-align: center;
+  }
+  table{
+    background-color: gold;
+    text-align: center;
+    position: relative;
+    align-self: center;
+  }
+  form{
+    padding: inherit;
+    position: absolute;
+    margin-left: 70%;
+    max-width: 200%;
+    text-align: center;
+    background-color: grey;
+    font-weight: 700;
+    font-style: italic;
+    border-style: hidden;
+  }
+  #Form{
+    color: gold;
+    font-size: 20;
+    letter-spacing: normal;
+    margin: 0;
+  }
+  input[type=button] {
+    background-color: red
+
+  }
+  input[type=button]:hover{
+    background-color: green
+  }
+  ul{
+    font-style: italic;
+    font-size: 20pt;
+    margin-left: 47%;
+  }
+  img.displayed{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
